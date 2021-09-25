@@ -4,4 +4,4 @@ Using IoE (Bluetooth) Technology i.e (802.15.1) we developed a fire and gas dete
 
 
 
-# Team: MEET POPAT YASHRAJ RAI DEEP VAKHARIA AND AAYUSH DOSHI
+Team: MEET POPAT YASHRAJ RAI DEEP VAKHARIA AND AAYUSH DOSHI
